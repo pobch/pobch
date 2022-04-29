@@ -1,4 +1,14 @@
-### Hi there 👋
+<p align="center">
+  <img alt="Hi, I'm Pob" src="./pob_intro.png" height="500" />
+</p>
+
+### 👻 I’m currently working on ...
+- https://react-diagram.netlify.app/
+
+### ❤️ Technologies I love ...
+- Typescript / Javascript
+- React
+- CSS (because it surprises me everyday 😭)
 
 <!--
 **pobch/pobch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
