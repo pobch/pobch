@@ -5,10 +5,14 @@
 ### 👻 I’m currently working on ...
 - https://react-diagram.netlify.app/
 
-### ❤️ Technologies I love ...
+### ❤️ Technologies I love
 - Typescript / Javascript
 - React
 - CSS (because it surprises me everyday 😭)
+
+### 📫 How to reach me
+- [LinkedIn](https://www.linkedin.com/in/pob-ch-b2836baa)
+- [Twitter](https://twitter.com/pob_ch)
 
 <!--
 **pobch/pobch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
