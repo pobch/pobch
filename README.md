@@ -2,8 +2,8 @@
   <img alt="Hi, I'm Pob" src="./pob_intro.png" width="512" />
 </p>
 
-### 👻 I’m currently working on ...
-- https://react-diagram.netlify.app/
+### 👻 I’m currently working on...
+- https://react-diagram.netlify.app (more details: https://github.com/pobch/react-diagram)
 
 ### ❤️ Technologies I love
 - Typescript / Javascript
