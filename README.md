@@ -6,9 +6,9 @@
 - https://react-diagram.netlify.app (more details: https://github.com/pobch/react-diagram)
 
 ### ❤️ Technologies I love
-- Typescript / Javascript
-- React
-- CSS (because it surprises me everyday 😭)
+- Typescript / Javascript (`typeof null === 'object'` yeahhh!)
+- React (let's create infinite loop with `useEffect()` 🚀)
+- CSS (that horizontal scrollbar from nowhere 😭)
 
 ### 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/pob-ch-b2836baa)
