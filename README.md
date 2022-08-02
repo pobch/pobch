@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Hi, I'm Pob" src="./pob_intro.png" width="512" />
+  <img alt="Hi, I'm Pob" src="./pob_intro2.png" width="512" />
 </p>
 
 ### 👻 I’m currently working on...
