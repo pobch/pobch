@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="my quote" src="./pob_intro3.png" width="512" />
+  <img alt="my quote" src="./pob_intro3.png" width="450" />
 </p>
 
 ## Hi, I'm Pob
