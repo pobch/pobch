@@ -1,6 +1,8 @@
 <p align="center">
-  <img alt="Hi, I'm Pob" src="./pob_intro3.png" width="512" />
+  <img alt="my quote" src="./pob_intro3.png" width="512" />
 </p>
+
+## Hi, I'm Pob
 
 ### 👻 I’m currently working on...
 
