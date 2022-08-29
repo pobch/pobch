@@ -6,8 +6,8 @@
 
 ### 🚧 Projects I’m currently working on
 
-- [Diagram Drawing App ↗](https://react-diagram.netlify.app)  
-  Repo: [react-diagram](https://github.com/pobch/react-diagram)
+- [Diagram Drawing App ✏️](https://react-diagram.netlify.app)  
+  ...for more details, please visit the repo: [react-diagram](https://github.com/pobch/react-diagram)
 
 ### ❤️ Technologies I love
 
