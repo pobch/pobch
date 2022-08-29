@@ -2,17 +2,21 @@
   <img alt="my quote" src="./pob_intro3.png" width="450" />
 </p>
 
-## Hi, I'm Pob
+## Hi, I'm Pob 👻
 
-### 👻 I’m currently working on...
+### 🚧 Projects I’m currently working on
 
-- https://react-diagram.netlify.app (more details: https://github.com/pobch/react-diagram)
+- [Diagram Drawing App ↗](https://react-diagram.netlify.app)  
+  Repo: [react-diagram](https://github.com/pobch/react-diagram)
 
 ### ❤️ Technologies I love
 
-- Typescript / Javascript (`typeof null === 'object'` yeahhh!)
-- React (let's create infinite loop with `useEffect()` 🚀)
-- CSS (that horizontal scrollbar from nowhere 😭)
+- Typescript / Javascript  
+  ↳ `(null < 1) === true` really!? 🙃
+- React  
+  ↳ Ahhh, it's time to debug another infinite loop by `useEffect()` 🧨
+- CSS  
+  ↳ Gotta `!important` 'em all 🚀
 
 ### 📫 How to reach me
 
