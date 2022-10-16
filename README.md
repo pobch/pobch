@@ -6,17 +6,17 @@
 
 ### 🚧 Projects I’m currently working on
 
-- [Diagram Drawing App ✏️](https://react-diagram.netlify.app)  
+- ✏️ **Diagram Drawing App**: [[Open the app] ↗](https://react-diagram.netlify.app)  
   ...for more details, please visit the repo: [react-diagram](https://github.com/pobch/react-diagram)
 
 ### ❤️ Technologies I love
 
 - Typescript / Javascript  
-  ↳ `(null < 1) === true` really!? 🙃
+  ↳ because `(null < 1) === true` is very intuitive 🙃
 - React  
-  ↳ Ahhh, it's time to debug another infinite loop by `useEffect()` 🧨
+  ↳ because dealing with `useEffect()` is soooo much fun 🧨
 - CSS  
-  ↳ Gotta `!important` 'em all 🚀
+  ↳ because everything in CSS is `!important` 🚀
 
 ### 📫 How to reach me
 
