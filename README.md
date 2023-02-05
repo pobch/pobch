@@ -6,8 +6,8 @@
 
 ### 🚧 Projects I’m currently working on
 
-- ✏️ **Diagram Drawing App**: [[Open the app](https://draw.crispyscript.com)]  
-  ...for more details, please visit the repo: [react-diagram](https://github.com/pobch/react-diagram)
+- ✏️ [**Diaaagram**](https://draw.crispyscript.com) - a diagram drawing app  
+  ↳ for more details, please visit the repo: [react-diagram](https://github.com/pobch/react-diagram)
 
 ### ❤️ Technologies I love
 
