@@ -8,6 +8,8 @@
 
 - ✏️ [**Diaaagram**](https://draw.crispyscript.com) - a diagram drawing app  
   ↳ for more details, please visit the repo: [react-diagram](https://github.com/pobch/react-diagram)
+- 📗 [**CrispyScript**](https://crispyscript.com) - my personal website / blog  
+  ↳ will open source soon
 
 ### ❤️ Technologies I love
 
