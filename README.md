@@ -6,10 +6,9 @@
 
 ### 🚧 Projects I’m currently working on
 
-- ✏️ [**Diaglam**](https://draw.crispyscript.com) - a diagram drawing app  
-  ↳ for more details, please visit the [repository](https://github.com/pobch/diaglam)
-- 📗 [**CrispyScript**](https://crispyscript.com) - my personal website / blog  
-  ↳ will open source soon
+- ✏️ [**Diaglam**](https://draw.crispyscript.com) - a diagram drawing app
+- 🍿 [**CrispyScript**](https://crispyscript.com) - my personal website / blog
+- 🗓️ [**MeetYup**](https://www.crispyscript.com/meetup) - find the best day to hang out with your friends
 
 ### ❤️ Technologies I love
 
